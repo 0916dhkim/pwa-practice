@@ -5,7 +5,7 @@ Toy PWA Project.
 Progressive Web Applications (PWA) are web applications
 that have certain characteristics of native applications.
 Notably:
-- **Instability** : Stays on user's home screen.
+- **Installability** : Stays on user's home screen.
 - **Network Independence** : Works when offline.
 - **Re-engageability** : Calls users back to app when needed via notifications.
 
